@@ -34,6 +34,12 @@
         </site>
     </distributionManagement>
 
+    <scm>
+        <connection>scm:git@github.com:leonardoquirino/webapp-test.git</connection>
+        <developerConnection>scm:git@github.com:leonardoquirino/webapp-test.git</developerConnection>
+        <url>scm:git@github.com:leonardoquirino/webapp-test.git</url>
+    </scm>
+
     <dependencies>
 
         <!-- junit 5, unit test -->
