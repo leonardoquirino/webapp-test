@@ -4,3 +4,5 @@ target/*
 
 #files
 workspace.xml
+*.iml
+*.releaseBackup

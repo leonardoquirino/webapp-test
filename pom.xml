@@ -31,12 +31,11 @@
             <id>teste-site</id>
             <url>http://localhost:8081/repository/teste-site/</url>
         </site>
-
     </distributionManagement>
 
     <scm>
-        <connection>scm:git@github.com:leonardoquirino/webapp-test.git</connection>
-        <developerConnection>scm:git@github.com:leonardoquirino/webapp-test.git</developerConnection>
+        <connection>scm:git:git@github.com:leonardoquirino/webapp-test.git</connection>
+        <developerConnection>scm:git:git@github.com:leonardoquirino/webapp-test.git</developerConnection>
         <url>https://github.com/leonardoquirino/webapp-test</url>
     </scm>
 
