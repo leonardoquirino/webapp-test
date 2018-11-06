@@ -6,3 +6,4 @@ target/*
 workspace.xml
 *.iml
 *.releaseBackup
+release.properties
