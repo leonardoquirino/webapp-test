@@ -34,8 +34,9 @@
     </distributionManagement>
 
     <scm>
-        <connection>scm:git:ssh://github.com:leonardoquirino/webapp-test.git</connection>
-        <developerConnection>scm:git:ssh://github.com:leonardoquirino/webapp-test.git</developerConnection>
+        <connection>scm:git:ssh://github.com/leonardoquirino/webapp-test.git</connection>
+        <developerConnection>scm:git:ssh://github.com/leonardoquirino/webapp-test.git</developerConnection>
+        <>scm:git:ssh://github.com:leonardoquirino/webapp-test.git</>
         <url>https://github.com/leonardoquirino/webapp-test</url>
     </scm>
 
